@@ -75,4 +75,4 @@ It is rewarding — and fun — to try distinct ways to do the same stuff and, d
 
 ![enter image description here](https://miro.medium.com/max/662/0*J9g8_cf7nKiymea9.jpg)
 
-Originally posted on my [Medium page](https://medium.com/@danianepg/an-experiment-with-user-story-mapping-f0a78b9d86ec)
+Originally posted on my [Medium page](https://medium.com/@danianepg/an-experiment-with-user-story-mapping-f0a78b9d86ec).

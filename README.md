@@ -1,6 +1,5 @@
 # An Experiment with User Story Mapping
-
-![](https://miro.medium.com/max/33/0*VQBwgVGeQAuQ0hm2?q=20)
+![enter image description here](https://miro.medium.com/max/4452/0*VQBwgVGeQAuQ0hm2)
 
 A while ago I attended a Scrum Developer workshop facilitated by  [Mario Melo](https://melomario.com/)  where we used  **User Story Mapping**  to create backlog stories to an imaginary product.
 
@@ -18,11 +17,8 @@ To do so, we establish:
 
 To understand the technique Mario provided us an example (also created by Jeff Patton) of narrative flow for a person getting ready to go to work. I tried to reproduce it in the image below.
 
-![](https://miro.medium.com/max/33/1*A3X0Vu0QgUwTZjZX7M2CIA.jpeg?q=20)
+![User Story Map “Go to work”](https://miro.medium.com/max/1481/1*A3X0Vu0QgUwTZjZX7M2CIA.jpeg)
 
-![](https://miro.medium.com/max/1481/1*A3X0Vu0QgUwTZjZX7M2CIA.jpeg)
-
-User Story Map “Go to work”
 
 We have the categories in  **blue** representing the  **backbone** of our story and the  **narrative flow**  in  **yellow**.
 
@@ -42,8 +38,6 @@ The advantages of it towards a flat backlog are:
 The activity went so well during the workshop that I suggested the technique to my team since we have just started a brand new exciting system.
 
 My Scrum Master delegated the responsibility to conduct the session to me and a colleague. I have never done something similar before, but I enjoy testing my anxiety limits.
-
-![](https://miro.medium.com/max/33/0*Kl5CG0LqTj-LIY_i?q=20)
 
 ![](https://miro.medium.com/max/1131/0*Kl5CG0LqTj-LIY_i)
 
@@ -65,8 +59,6 @@ I struggled, however,  **controlling the time**  and the session. Since the disc
 
 I also had a hard time trying to  **keep things on track**. I was just a software developer trying to facilitate a session and I did not feel that I had the authority to stop some discussions and simply move on. I did not want to be “bossy” or to give the idea that some member’s opinions were less valuable than others’.
 
-![](https://miro.medium.com/max/33/0*mEFXrYL-up8eUY71?q=20)
-
 ![](https://miro.medium.com/max/609/0*mEFXrYL-up8eUY71)
 
 After the session, I have conducted a survey to collect the team’s feedback and the answers were pretty encouraging. Between some complaints, there were positive comments and the overall opinion was that the session was essential to  **put every team member on the same page**  and to  **clarify** what is, in fact, this new system that we are about to create.
@@ -81,6 +73,6 @@ If I would like to conduct a similar session again?  **Yes**! Nevertheless, I wo
 
 It is rewarding — and fun — to try distinct ways to do the same stuff and, despite the “setbacks” and some heated discussions, it was delightful to see so many members of the team with such a great extent of engagement for that amount of time.
 
-![](https://miro.medium.com/max/33/0*J9g8_cf7nKiymea9.jpg?q=20)
+![enter image description here](https://miro.medium.com/max/662/0*J9g8_cf7nKiymea9.jpg)
 
 Originally posted on my [Medium page](https://medium.com/@danianepg/an-experiment-with-user-story-mapping-f0a78b9d86ec)
